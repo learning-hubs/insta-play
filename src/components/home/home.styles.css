@@ -1,0 +1,14 @@
+.home-container {
+    background-color: #073965;
+}
+
+.home-container h3 {
+    color: white;
+    margin-left: 25px;
+}
+
+.home-container .cards-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: 100%;
+}
